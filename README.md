@@ -18,7 +18,7 @@
   <a href="https://www.youtube.com/watch?v=SWd6QM0TTJo"><img src="https://img.shields.io/youtube/views/SWd6QM0TTJo?style=plastic&logo=youtube&color=red&label=Tutorial" alt="Youtube "/></a>
 </p>
 
-## CREDITOS
+## PERSONAS QUE PARTICIPARON EN EL PROYECTO
 
 <table align="center">
   <tbody>
@@ -110,6 +110,144 @@ The Ultimate 15 Days By Rosher Random, Convex y HaJuegos Cat! - Version Oficial 
 - Los Endermans ahora spawnean con mas frecuencia.
 
 • Cambios del Dia 1:
+
+- Ahora las llamas y delfines son hostiles ante ti.
+- Aparecen nuevos items: "Corazon de Arrecife" y "Cristales de Malaquita"
+	Corazon de Arrecife:
+		- Para obtenerlo, necesitas un corazon de mar, Conchas de Nautilio y Cristales de Malaquita, se craftea en la Mesa de Crafteo.
+		- Al consumirlo, te agrega 1 corazon extra de forma permanente. Como maximo 5 veces.
+		
+	Cristales de Malaquita:
+		- Este es obtenible por medio de Delfines.
+		- No hace nada especial.
+		
+- Ahora las tortugas dropean Conchas de Nautilio.
+
+• Cambios del Dia 2:
+
+- Ahora el calamar brillante y el normal tienen un aura de 15x15 bloques donde si te acercas, te daran ceguera.
+- Ahora el encantamiento de Saqueo ya no afecta a los Ahogados.
+- Ahora las manzanas de hierro dan Resistencia II por 15 segundos en vez de 30 segundos.
+- Aparecen nuevos items: "Manzana Sculk" y "Mazana con Miel"
+	Manzana Sculk:
+		- Al consumirlo, te eliminara el efecto de ceguera y darkness, tambien te agregara el efecto de Fuerza II por 1 minuto.
+		
+	Mazana con Miel:
+		- Al consumirlo, te eliminara el efecto de wither, veneno y fatal poison, tambien generara 4 "Abejas Aliadas" temporales que duran 2 minutos.
+		- Al consumirlo, se agregara un cooldown de 2 minutos.
+		
+- Aparece un nuevo mob: "Abeja Aliada"
+	Abeja Aliada:
+		- Esta variante cuenta con 20 de vida, 10 de daño por ataque y el efecto de veneno. Estos dejan de ser tus aliadas luego de haber pasado los 2 minutos de cooldown.
+		
+- Ahora aparecen zorros en las raids.
+
+• Cambios del Dia 3:
+
+- Ahora los phantoms cada cierto tiempo pueden lanzar creepers que explotan al caer.
+- Ahora la lluvia te da Lentitud III.
+
+• Cambios del Dia 4:
+
+- El cambio del Evocador fue revertido.
+- Los Pillagers han cambiado y ahora:
+	- Su ballesta tiene: Carga Rapida I, Flechas de Veneno I y Wither I por 30 segundos.
+	- Lanza mas de 1 flecha.
+	
+- Los vex ahora tienen hachas de Diamante con Filo IV.
+- Los Vindicadores han cambiado y ahora:
+	- Tienen Impulso de Salto IV, No tienen daño de caida, Velocidad II y Fuerza III.
+	
+- Se ha eliminado el OnePlayerSleep.
+
+• Cambios del Dia 5:
+
+- Aparece un nuevo Mini Jefe: "Demon Evoker of Crimson" o "Demonio Evocador del Carmesí"
+	- Este solo se genera en el bioma Crimson Forest.
+	- Tienen 1000 de vida.
+	- No puede recibir daño de: Fuego, Efectos, Explosiones y Caida.
+	- Si estas cerca de el, volara y flotara por unos momentos para luego caer y activar una explosion de alto rango.
+	- Este lanza Bolas de Ghast con muchisimo poder.
+	- Tiene Regeneracion II.
+	- Puede generar "Vex Infernales".
+	- Al morir, te dropeara el "Baston Infernal".
+	
+- Aparece un nuevo mob: "Vex Infernal"
+	Vex Infernal:
+		- Este te ataca como un vex normal a excepcion de que te lanzara bolas de ghast con un poco menos de poder, aun asi igual de peligroso.
+		
+- Aparece un nuevo item: "Baston Infernal"
+	Baston Infernal:
+		- Al usarlo, activa un aura que ademas de hacer daño, empuja cualquier otra entidad cercana.
+		
+- Ahora los Slimes hacen el mismo daño que los Magma Cubes.
+- El drop de los endermans fue eliminado.
+- Ahora los striders pueden volar, raro no?.
+
+• Cambios del Dia 6:
+
+- Ahora todo tipo de mob acuatico solo recibe daño por medio de tridentes en su forma de item y entidad.
+- Ahora minar minerales de Diamante generara Silverfish siempre.
+- Aparece un nuevo Mini Jefe: "Ender Faron Evoker" o "Ender Faraon Evocador"
+	- Solo se genera en la Warped Forest.
+	- Tiene 900 de vida.
+	- No puede recibir daño de: Fuego, Efectos, Explosiones, Caida y Proyectiles.
+	- Puede volar o flotar.
+	- Puede convertir a los Endermans de su alrededor en "Endermans Aliados" o tambien generarlos.
+	- Te lanza flechas de daño instantaneo y si te impactan te teletrasportan hacia el.
+	- Tiene Regeneracion II.
+	- Puede generar "Ender Vexs".
+	- Al morir, dropeara la "Ender Pulta".
+
+- Aparecen nuevos mobs: "Enderman Aliado" y "Ender Vex"
+	Enderman Aliado:
+		- Son hostiles ante ti siempre, con diferente textura y siempre seguiran y protegeran al Ender Faraon Evoker.
+		
+	Ender Vex:
+		- No reciben daño de Proyectiles y al ser golepado por este, te roban los enderchest que portes.
+		
+- Aparece un nuevo item: "Ender Pulta"
+	- Dicho item te permite teletrasportarte de forma infinita al usarlo e impactar en todas las zonas, similar a una ender pearl.
+
+• Cambios del Dia 7:
+
+- Aparece un nuevo mob: "Mina Acuática" o "Aquatic Mine"
+	- Se genera en el agua con un 10% de posibilidad.
+	- Cualquier toque o interaccion con dicho mob, hara una super explosion potente, capaz de eliminar hasta el agua o lava.
+	
+- Al pescar, hay un 10% de posibilidad de que se genere un Guardian Anciano y un 10% de posibilidad que se genere un Guardian.
+- Ahora los Rayos al impactar, explotan con un nivel de 5.
+- Ahora hay un 70% de posibilidad de que un Piglin al spawnear sea un Piglin Brute.
+- Aparece un nuevo Mini Jefe: "Lord Vampire Evoker" o "Lord Evocador Vampiro"
+	- Solo se genera en cuevas grandes con minimo nivel de luz. (Altura 20 hasta la -64)
+	- Tambien se genera en tu posicion si no duermes por 5 dias seguidos.
+	- Tiene 900 de vida.
+	- No puede recibir daño de: Fuego, Explosiones, Efectos, Caida y Melee.
+	- El unico medio de hacerle daño es por medio de "Estacas".
+	- Puede volar o flotar.
+	- Cada daño que te haga, se regenerara.
+	- Cada 3 Hits, intentara escapar y curarse.
+	- Puede generar "Lord Vexs".
+	- El mob desaparecera si hay mucha luz o estan a la luz del dia.
+	- Al morir, te dropeara el "Baston Drenador".
+	- Si detecta un barco cerca, este lo explotara.
+	
+- Aparecen nuevos mobs: "Lord Vex"
+	- Su primer fase es a rango, donde te lanzaran pociones de daño que regeneraran al Lord Vampire Evoker.
+	- Si te le acercas demasiado, pasan a fase melee, si te dejas golpear de esta fase, te dara Ceguera y Nauseas por 15 segundos.
+	- El mob desaparecera si hay mucha luz o estan a la luz del dia.
+	
+- Aparecen nuevos items: "Estacas" y "Baston Drenador"
+	Estacas:
+		- Solo son usables con la ballesta.
+		- Se pueden usar como combustible para hornos.
+		- Hace 3 de daño.
+		- Se craftea con el cortapiedras con un palo.
+		
+	Baston Drenador:
+		- Dependiendo el daño que le hagas a los mobs, es la regeneracion que consigues con este item.
+		
+• Cambios del Dia 8:
 
 
 
